@@ -1,9 +1,8 @@
 function main() {
     // Only change code below this line
-       var myString = "Jello World";
-           myString = "Hello World";
+       
     // Only change code above this line
-    return myString;
+    return thirdLetterOfLastName;
 }
 
 console.log(main());
